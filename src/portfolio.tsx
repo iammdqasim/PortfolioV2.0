@@ -876,12 +876,12 @@ const Portfolio: FC = () => {
                     whiteSpace: "nowrap",
                   }}
                 >
-                  Sept 2026 - Oct 2026
+                  Oct 2026 - Nov 2026
                 </span>
               </div>
 
               <p className="exp-desc" style={{ marginTop: "18px", color: "#6b6b7e", lineHeight: 1.8, fontSize: "14.5px", fontWeight: 300 }}>
-                Working remotely with an Australian product team to build and maintain production web applications using Ruby on Rails, PostgreSQL, and modern web technologies. Contributing to new features, bug fixes, integrations, and ongoing improvements across the platform.
+                Worked remotely with an Australian product team to build and maintain production web applications using Ruby on Rails, PostgreSQL, and modern web technologies. Contributing to new features, bug fixes, integrations, and ongoing improvements across the platform.
               </p>
 
               <div style={{ display: "flex", gap: "8px", marginTop: "20px", flexWrap: "wrap" }}>
