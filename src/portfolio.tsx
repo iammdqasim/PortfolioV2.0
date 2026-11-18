@@ -77,6 +77,7 @@ const SKILLS: Skill[] = [
   { name: "OpenCode", icon: "◈", level: 90, category: "AI & Tools" },
   { name: "Pomelli Google Lab", icon: "◈", level: 70, category: "AI & Tools" },
   { name: "Flow Google Lab", icon:"◈", level: 70, category: "AI & Tools" },
+  { name: "Loveable Website Builder", icon:"◈", level: 80, category: "AI & Tools" },
   { name: "Docker", icon:"◈", level: 70, category: "AI & Tools" },
   { name: "Codex", icon:"◈", level: 80, category: "AI & Tools" },
   { name: "Cursor", icon:"◈", level: 70, category: "AI & Tools" },
