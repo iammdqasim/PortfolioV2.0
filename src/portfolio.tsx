@@ -591,7 +591,7 @@ const Portfolio: FC = () => {
             letterSpacing: "0.5px",
           }}
         >
-          Full-Stack Web Developer & AI Builder
+          Full-Stack Engineer & AI Builder
         </p>
 
         {/* Bio */}
