@@ -73,7 +73,7 @@ const SKILLS: Skill[] = [
   { name: "MySQL", icon: "◈", level: 75, category: "Database" },
   { name: "SQLITE", icon: "◈", level: 70, category: "Database" },
   { name: "Google AI Studio", icon: "◈", level: 80, category: "AI & Tools" },
-  { name: "SEO Optimization", icon: "◈", level: 85, category: "AI & Tools" },
+  { name: "SEO Optimization", icon: "◈", level: 90, category: "AI & Tools" },
   { name: "OpenCode", icon: "◈", level: 90, category: "AI & Tools" },
   { name: "Pomelli Google Lab", icon: "◈", level: 70, category: "AI & Tools" },
   { name: "Flow Google Lab", icon:"◈", level: 70, category: "AI & Tools" },
