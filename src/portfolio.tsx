@@ -65,7 +65,7 @@ const SKILLS: Skill[] = [
   { name: "TypeScript", icon: "◈", level: 80, category: "Frontend" },
   { name: "Node.js", icon: "◈", level: 75, category: "Backend" },
   { name: "Express", icon: "◈", level: 70, category: "Backend" },
-  { name: "PHP", icon: "◈", level: 75, category: "Backend" },
+  { name: "PHP", icon: "◈", level: 70, category: "Backend" },
   { name: "Laravel", icon: "◈", level: 75, category: "Backend" },
   { name: "Ruby on Rails", icon: "◈", level: 70, category: "Backend" },
   { name: "MongoDB", icon: "◈", level: 70, category: "Database" },
